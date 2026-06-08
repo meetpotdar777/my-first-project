@@ -1,2 +1,2 @@
 # my-first-project
-Hello Everyone
+HELLO EVERYONE
